@@ -62,4 +62,4 @@ async def on_message(message):
 		await client.send_message(message.channel,embed=embed)
 
 
-bot.run("Mzk4OTMyODE1MTc5MTUzNDIw.DTGN3Q.axZmgo2Y65oCgB4Sg6bSGk-7zSE")
+bot.run(*INSERT BOT TOKEN NUMBER*)
